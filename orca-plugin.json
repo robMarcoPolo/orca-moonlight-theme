@@ -2,7 +2,7 @@
   "manifestVersion": 2,
   "id": "moonlight-theme",
   "name": "Moonlight for Orca",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "execution": "data",
   "description": "Unofficial port of atomiks’ Moonlight II: a bubblegum-on-moonlit-navy dark theme (plus an italic variant) with matching code and terminal colors.",
   "license": "MIT",
@@ -11,6 +11,22 @@
   "engines": {
     "orca": ">=1.4.246"
   },
+  "cover": {
+    "path": "images/cover.webp",
+    "alt": "Orca in Moonlight II: PHP in the editor with the Moonlight II terminal below"
+  },
+  "screenshots": [
+    {
+      "path": "images/editor.webp",
+      "alt": "PHP code in the Orca editor in Moonlight II, with git output in the Moonlight II terminal below",
+      "caption": "PHP in the editor, Moonlight II terminal below"
+    },
+    {
+      "path": "images/chat.webp",
+      "alt": "An Orca agent chat in Moonlight II explaining a function, with inline code and a table",
+      "caption": "Agent chat with inline code and a table"
+    }
+  ],
   "contributes": {
     "themes": [
       {

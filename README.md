@@ -3,6 +3,8 @@
 An unofficial port of [Moonlight II](https://github.com/atomiks/moonlight-vscode-theme) by atomiks to
 [Orca](https://orca.dev). Not affiliated with or endorsed by the original author.
 
+![Orca in Moonlight II](images/cover.webp)
+
 - Moonlight II (dark)
 - Moonlight II Italic (dark): the same colours, with italic comments, keywords and attributes
 
